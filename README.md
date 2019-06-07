@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-TEST by rohit Test 2 Test3 Test4 Test5
+TEST by rohit Test 2 Test3 Test4 Test5 6
